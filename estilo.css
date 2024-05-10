@@ -1,0 +1,26 @@
+body {
+    background-image:url(fondos.jpg);
+    font-family: tahoma;
+    font-size: 12px;
+   }
+   #centrado{
+    text-align: center;
+   }
+   table {
+    margin:auto;
+   }
+   td {
+    border: solid 1px #006699;
+    border-top: #006699;
+    border-right: #006699;
+    border-left: #006699;
+    border-bottom: #006699;
+   }
+   #titulo{
+    font-family: tahoma;
+    text-align: center;
+   }
+   #ganadora{
+    font-family: tahoma;
+    font-size: 20px;
+   }
